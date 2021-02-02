@@ -183,7 +183,7 @@ For others controllers you need to design the support for the card, or add wires
 <H2>3D Printing</H2>
 <H3>Materials</H3>
 - HEAD : 0.2mm and 0.6mm<BR />
-- PLA BLACK, WHITE and CLEAR color<BR />
+- PLA BLACK and PLA WHITE<BR />
 <H3>CURA  configuration</H3>
 With CURA you need plugin PauseAtZ, i modified the plugin to add 2 pauses (printing buttons by example) download and install it--> <a href='https://github.com/kkr0kk/c172-autopilot/blob/main/Gcode/pauseAtZ.py'>Here</a><BR />
 <H3>Printing Buttons</H3>
