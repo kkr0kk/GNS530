@@ -202,7 +202,7 @@ Change the head to 0.6mm and PLA BLACK, and start the second part "main - second
 GCODE files are on github.<BR />
 <H2>SUPPORT for controller</H2>
 <H3>Support for Mega2560 pro mini</H3>
-<img src='https://github.com/kkr0kk/c172-autopilot/blob/main/images/support_mega2560-pro-mini_PCB.png?raw=true'></img>
+<img src='https://github.com/kkr0kk/GNS530/blob/main/images/gns530-support-pro-mini-PCB.png?raw=true'></img>
 <H2>Other Projects</H2>
 Build transponder KT76C for Cessna172 -> <a href='https://github.com/kkr0kk/c172-xpndr'>Transponder</a><BR />
 Build AutoPilot KAP140 for Cessna172 -> <a href='https://github.com/kkr0kk/c172-autopilot'>AutoPilot</a><BR />
