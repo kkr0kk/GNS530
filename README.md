@@ -1,6 +1,6 @@
 <H1>GNS530 - Simulation GPS - for Cessna 172 - DIY</H1>
 
-<H1>WORK IN PROGRESS, don't build this for now, NOT TESTED YET</H1>
+<H1>NOT TESTED YET</H1>
 Build your own GPS GNS530 for simulation cockpit.<BR />
 Format for 6.25" stack<BR />
 Electronics are design with EasyEDA.<BR />
