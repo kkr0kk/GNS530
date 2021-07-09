@@ -8,7 +8,8 @@ Parts printed with ANET A8 and CURA 15.04.6<BR />
 PCB are sold by JLCPCB, you can use directly Gerber files --> <a href='https://jlcpcb.com/'>JLCPCB</a><BR />
 Only electronics, you can choose the microcontroller of your choice, the base design have addtionnal card for Mega2560R3.
 For mine i use Mega2560R3 and Mobiflight on MSFS2020--> <a href='https://www.mobiflight.com/en/index.html'>MOBIFLIGHT</a><BR />
-For others controllers you need to design the support for the card, or add wires to link them.
+For others controllers you need to design the support for the card, or add wires to link them.<BR /><BR />
+The Screen use for this project --> <a href="https://fr.aliexpress.com/item/1005001705520738.html?spm=a2g0s.9042311.0.0.27426c3732LoQ7">Aliexpress</a>
 <img src='https://github.com/kkr0kk/GNS530/blob/main/images/gns530-3D-front.png?raw=true' />
 <H2>ELECTRONICS</H2>
 <img src='https://github.com/kkr0kk/GNS530/blob/main/images/gns530-shematic.png?raw=true'></img>
